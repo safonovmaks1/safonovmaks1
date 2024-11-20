@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Maks
+### Hi there 👋, my name is Maksim Safonov
 #### I am Web Developer
 ![I am Junior Web Developer]
 
