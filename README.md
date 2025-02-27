@@ -1,3 +1,5 @@
+-- 🔭 I’m currently working on this page. --
+
 # Привет, я Максим Сафонов 👋
 [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/ваш_телеграм)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ваш_гитхаб)
@@ -51,12 +53,3 @@
 ---
 
 [![Visitors](https://komarev.com/ghpvc/?username=safonovmaks1&color=2ecc71)](https://github.com/safonovmaks1)
-
-
-
-- 🔭 I’m currently working on this page. 
-
-
-
-
-
