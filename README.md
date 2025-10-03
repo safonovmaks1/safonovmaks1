@@ -32,13 +32,18 @@
 ---
 
 ### 📊 Активность разработки
-<div align="center">  
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=safonovmaks1&show_icons=true&theme=radical&hide=contribs&count_private=true)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safonovmaks1&layout=compact&theme=radical&exclude_repo=repo1,repo2)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <h3 align="center">GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=safonovmaks1&show_icons=true&theme=radical&hide=contribs&count_private=true" />
+    </td>
+    <td>
+      <h3 align="center">Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safonovmaks1&layout=compact&theme=radical&exclude_repo=repo1,repo2" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -50,10 +55,6 @@
 ---
 
 ### 🎯 Цели на ближайшее время
-- [x] Освоить HTML, CSS
-- [ ] Освоить React
-- [ ] Изучить TypeScript
-- [ ] Освоить Node.js
 - [ ] Создать open-source проект
 
 ---
