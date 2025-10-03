@@ -1,9 +1,8 @@
 # 🌱 В настоящее время работаю над этим профилем
 
 # Привет, я Максим Сафонов 👨💻  
-[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/ваш_телеграм)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/ваш_гитхаб)
-[![Portfolio](https://img.shields.io/badge/-Портфолио-2ecc71?style=flat)](https://ваш-сайт.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram)](https://t.me/MaksSafonov)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/safonovmaks1)
 
 **Фронтенд-разработчик** из Санкт-Петербурга   
 🚀 Создаю современные веб-приложения  
