@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux" width="400">
 
 **Инструменты:**  
-<img src="https://skillicons.dev/icons?i=vite,webpack,gulp,git,figma,sass,nodejs,mongodb" width="400">
+<img src="https://skillicons.dev/icons?i=vite,gulp,git,figma,sass,nodejs,mongodb" width="400">
 
 ---
 
@@ -48,9 +48,9 @@
 ---
 
 ### 📬 Контакты
-- 💌 **Email:** [max.safonov@example.com](mailto:max.safonov@example.com)
-- 📱 **Telegram:** [@max_safonov](https://t.me/max_safonov)
-- 💼 **Резюме:** [PDF](https://drive.google.com/...)
+- 💌 **Email:** [safonovmaks1@yandex.ru](mailto:safonovmaks1@yandex.ru)
+- 📱 **Telegram:** [@MaksSafonov](https://t.me/MaksSafonov)
+
 
 ---
 
